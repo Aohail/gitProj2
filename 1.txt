@@ -1,1 +1,3 @@
 My first git about to change.Kya hal ha
+and here is the concept of forking, contributing, and pulling requests
+Happy coding :)
